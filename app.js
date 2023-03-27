@@ -15,4 +15,4 @@ app.get("/works", (req, res) => {
   res.sendFile(__dirname + "/views/works.html");
 });
 
-app.listen(3000, () => console.log("My first app listening on port 3000! "));
+app.listen(3000, () => console.log("it worked"));
