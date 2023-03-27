@@ -1,0 +1,12 @@
+.body {
+    background-color: beige;
+    background-repeat: inherit;
+}
+
+.nav ul {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+
